@@ -2,3 +2,5 @@
 *.pdb
 ols.json
 build
+
+/subprojects/*/
